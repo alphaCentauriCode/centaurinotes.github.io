@@ -1,0 +1,4 @@
+[[main]]
+  name = "Lessons"
+  url = "/blog/"
+  weight = 30
