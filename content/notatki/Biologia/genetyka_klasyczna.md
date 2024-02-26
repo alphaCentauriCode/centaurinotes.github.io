@@ -6,7 +6,7 @@ date: 2024-02-19T20:48:49Z
 lastmod: 2024-02-19T20:48:49Z
 draft: false
 weight: 50
-categories: []
+categories: [Biologia]
 tags: [Biologia]
 contributors: [Centauri]
 pinned: false
