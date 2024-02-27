@@ -1,5 +1,5 @@
 ---
-title: "Ludzie którzy szli"
+title: "Inny świat"
 description: ""
 summary: ""
 date: 2024-02-27T20:20:20Z
